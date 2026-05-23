@@ -52,7 +52,7 @@
 
 📷 Dashboard Preview
 
-(Add your dashboard screenshots here)
+(https://github.com/maheshgawali1602-source/sales-data-analysis/blob/main/Screenshot%202026-05-23%20183159.png)
 
 💡 Skills Demonstrated
 -Data Cleaning
